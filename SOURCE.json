@@ -2,14 +2,14 @@
   "schema": "qrscan-glama-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "c1a8d77b4585b663a2436fe132fb4305f8f6da22"
+    "revision": "5bb20f10e8f1cd9321a00d4dcf6f93d866aa0143"
   },
   "files": {
-    "Dockerfile": "666952e46b1f67569fed27b07f64719f1062363d53ae63046d6fcba9a0f6feca",
+    "Dockerfile": "5e688140de64d2433a644a0fe484b737cddb5cbc95a789b6f85d3eb2826bed35",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "ca083530105c5ef25f37a9962bcee0c91c03a18b365795ab36e4393df8a8ea2a",
+    "README.md": "66b6c02217d6fb6731d53b26a8ae139f0e221534db87d94f0540a1e177af30db",
     "glama.json": "c48d638fb270e1f6b04994a0d8429a2bb481eb347cfaa5193b2658b18aedd05b",
-    "package-lock.json": "a08c262688760c97bdc658ea1429ecda2902ad8c8825acff56067ae8726347ef",
-    "package.json": "8276bccb544cfe6b4a96e51b28d8a15fc6b68e55dc414e5acba117a5a5f18648"
+    "package-lock.json": "9378ca0077c3255a76334fec23c549cf0a0b91ce143e7afa1bb5c8a56564053a",
+    "package.json": "cbf36df17485d5a3a843d593114d019e90452f00af9f2258d26b578fe27150d4"
   }
 }
